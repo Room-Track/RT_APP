@@ -1,0 +1,199 @@
+{
+	"@@locale": "it",
+
+	"appBar0": "Preferiti",
+	"@appBar0": {},
+	"appBar1": "Cerca",
+	"@appBar1": {},
+	"appBar2": "Mappa",
+	"@appBar2": {},
+
+	"welcome": "Quale sala stiamo cercando?",
+	"@welcome": {},
+	"searchHint": "Inserisci sala/edificio qui",
+	"@searchHint": {},
+	"searchBtn0": "Cerca per edificio",
+	"@searchBtn0": {},
+	"searchBtn1": "Vedi cronologia",
+	"@searchBtn1": {},
+
+	"settingProfile": "Profilo",
+	"@settingProfile": {},
+	"settingProfileBtn0": "Modifica Profilo",
+	"@settingProfileBtn0": {},
+	"settingProfileBtn1": "Cambia Password",
+	"@settingProfileBtn1": {},
+	"settingProfileBtn2": "Esci",
+	"@settingProfileBtn2": {},
+
+	"settingLanguage": "Lingua",
+	"@settingLanguage": {},
+	"settingLanguageSub": "Seleziona la tua lingua",
+	"@settingLanguageSub": {},
+
+	"settingFont": "Carattere",
+	"@settingFont": {},
+	"settingFontSub": "Seleziona la dimensione del carattere preferita",
+	"@settingFontSub": {},
+
+	"settingTheme": "Tema",
+	"@settingTheme": {},
+	"settingThemeSub": "Seleziona il tuo tema",
+	"@settingThemeSub": {},
+
+	"settingUsage": "Utilizzo",
+	"@settingUsage": {},
+
+	"settingShare": "Condividi",
+	"@settingShare": {},
+	"settingContact": "Contatto",
+	"@settingContact": {},
+	"settingVersion": "Versione",
+	"@settingVersion": {},
+
+
+
+
+	"nameTypeVertex": "Luogo",
+	"@nameTypeVertex": {},
+	"nameTypeClass": "Aula",
+	"@nameTypeClass": {},
+	"nameTypePc": "PC",
+	"@nameTypePc": {},
+	"nameTypeBuilding": "Edificio",
+	"@nameTypeBuilding": {},
+
+	"generalLocation": "Posizione Generale",
+	"@generalLocation": {},
+	"reference": "Riferimento",
+	"@reference": {},
+	"outside": "Fuori dalla USM",
+	"@outside": {},
+	"inside": "Dentro la USM",
+	"@inside": {},
+	"go": "Vai",
+	"@go": {},
+	"floors": "Piani",
+	"@floors": {},
+	"floor": "Piano",
+	"@floor": {},
+	"underground": "Sotterraneo",
+	"@underground": {},
+	"at_ground_level": "A livello del suolo",
+	"@at_ground_level": {},
+	"take_stairs": "Salire le scale",
+	"@take_stairs": {},
+
+	"error": "Errore durante la connessione al server..",
+	"@error": {},
+	"level": "Livello",
+	"@level": {},
+
+	"small": "Piccolo",
+	"@small": {},
+	"med": "Medio",
+	"@med": {},
+	"large": "Grande",
+	"@large": {},
+	"xl": "Extra Grande",
+	"@xl": {},
+
+	"dark": "Scuro",
+	"@dark": {},
+	"light": "Chiaro",
+	"@light": {},
+	"system": "Sistema",
+	"@system": {},
+
+	"history": "Cronologia",
+	"@history": {},
+
+	"buildings": "Edifici",
+	"@buildings": {},
+	"try_search_room": "Prova a cercare una stanza..",
+	"@try_search_room": {},
+
+	"unable_to_find_current": "No se puede encontrar la posición actual",
+	"@unable_to_find_current": {},
+
+	"no_fav": "Non ci sono preferiti salvati.",
+	"@no_fav": {},
+	"error_local_storage": "Errore durante il caricamento dello storage locale..",
+	"@error_local_storage": {},
+
+	"email": "Email",
+	"@email": {},
+	"example": "esempio",
+	"@example": {},
+	"password": "Password",
+	"@password": {},
+	"insert_password": "Inserisci la tua password",
+	"@insert_password": {},
+	"forgot_password": "Hai dimenticato la password?",
+	"@forgot_password": {},
+	"sign_in": "Accedi",
+	"@sign_in": {},
+	"sign_up": "Registrati",
+	"@sign_up": {},
+	"guest": "Entra come ospite",
+	"@guest": {},
+
+
+	"send_to": "Questo invierà un'email per cambiare la tua password",
+	"@send_to": {},
+	"send": "Invia",
+	"@send": {},
+
+	"error_fields_empty": "I campi non possono essere vuoti",
+	"@error_fields_empty": {},
+	"error_email": "Email non corretta",
+	"@error_email": {},
+	"error_password": "Password non corretta",
+	"@error_password": {},
+	"no_response": "Nessuna risposta dal server",
+	"@no_response": {},
+
+	"email_sended": "Email inviato",
+	"@email_sended": {},
+
+	"confirmation": "Sei sicuro?",
+	"@confirmation": {},
+	"this_will_send_mail": "Questo invierà un'email per cambiare la tua password",
+	"@this_will_send_mail": {},
+	"yes": "sì",
+	"@yes": {},
+	"no": "no",
+	"@no": {},
+	"mail_sended": "Email inviato.",
+	"@mail_sended": {},
+
+	"no_info": "non ci sono informazioni",
+	"@no_info": {},
+
+	"start_point": "Punto di partenza",
+	"@start_point": {},
+
+	"indications": "Indicazioni",
+	"@indications": {},
+
+	"you_reached": "Hai raggiunto la tua destinazione",
+	"@you_reached": {},
+	"congrats": "Congratulazioni!",
+	"@congrats": {},
+
+	"must_complete": "Tutti i campi devono essere completati",
+	"@must_complete": {},
+
+	"bad_signup": "Non è stato possibile registrarsi",
+	"@bad_signup": {},
+
+	"usage_text": "Se hai bisogno di cercare un luogo specifico, nella pagina principale che appare all'apertura dell'app, troverai una barra di ricerca e, sotto di essa, le opzioni per cercare per edificio o per la cronologia delle schede cercate. Quando cerchi un edificio o una stanza particolare, verrà visualizzato un elenco e, selezionando un'opzione, verranno mostrati i dettagli.\n*Queste schede mostrano informazioni sul luogo, come il nome e il tipo (Stanza o Edificio). Puoi salvarle cliccando sulla stella in alto a destra e successivamente visualizzarle elencate nella sezione in basso a sinistra. Puoi anche cliccare sull'immagine dettagliata della mappa nella sezione infrastruttura per evidenziare la posizione sulla mappa.\n*Selezionando l'opzione \"Vai\", riceverai indicazioni e riferimenti per raggiungere la destinazione in base alla tua vicinanza all'università attraverso la navigazione mostrata sullo schermo. L'opzione per visualizzare la mappa si trova nella barra interattiva nell'angolo in basso a destra, dove puoi centrare la tua posizione e passare alla \"Vista Stradale\" o \"Vista Satellitare\".\n*Per visualizzare le diverse opzioni e modificare le tue preferenze, premi i tre pulsanti in alto a destra, dove puoi cambiare la dimensione del carattere, il tema, la lingua, ecc. *Infine, premendo il profilo che si trova in alto all'interno del cerchio con l'immagine, puoi cambiare la tua password o effettuare il logout.",
+	"@usage_text": {},
+
+	"version_text": "Room Track App : Ultima\nVersione di rilascio : v1.0.0",
+	"@version_text": {},
+
+	"share_text": "Ehi, prova \"Room Track\" su PlayStore",
+	"@share_text": {}
+
+}

@@ -1,0 +1,201 @@
+{
+	"@@locale": "en",
+
+	"appBar0": "Favorites",
+	"@appBar0": {},
+	"appBar1": "Search",
+	"@appBar1": {},
+	"appBar2": "Map",
+	"@appBar2": {},
+
+	"welcome": "¿Which room are we looking for?",
+	"@welcome": {},
+	"searchHint": "Inset room/building here",
+	"@searchHint": {},
+	"searchBtn0": "Search by building",
+	"@searchBtn0": {},
+	"searchBtn1": "See history",
+	"@searchBtn1": {},
+
+	"settingProfile": "Profile",
+	"@settingProfile": {},
+	"settingProfileBtn0": "Edit Profile",
+	"@settingProfileBtn0": {},
+	"settingProfileBtn1": "Change Password",
+	"@settingProfileBtn1": {},
+	"settingProfileBtn2": "Sign Out",
+	"@settingProfileBtn2": {},
+
+	"settingLanguage": "Language",
+	"@settingLanguage": {},
+	"settingLanguageSub": "Select your language",
+	"@settingLanguageSub": {},
+
+	"settingFont": "Font",
+	"@settingFont": {},
+	"settingFontSub": "Select your preferred font size",
+	"@settingFontSub": {},
+
+	"settingTheme": "Theme",
+	"@settingTheme": {},
+	"settingThemeSub": "Select your theme",
+	"@settingThemeSub": {},
+
+	"settingUsage": "Usage",
+	"@settingUsage": {},
+
+	"settingShare": "Share",
+	"@settingShare": {},
+	"settingContact": "Contact",
+	"@settingContact": {},
+	"settingVersion": "Version",
+	"@settingVersion": {},
+
+
+
+
+
+
+	"nameTypeVertex": "Place",
+	"@nameTypeVertex": {},
+	"nameTypeClass": "ClassRoom",
+	"@nameTypeClass": {},
+	"nameTypePc": "PC",
+	"@nameTypePc": {},
+	"nameTypeBuilding": "Building",
+	"@nameTypeBuilding": {},
+
+	"generalLocation": "General Location",
+	"@generalLocation": {},
+	"reference": "Reference",
+	"@reference": {},
+	"outside": "Outside of USM",
+	"@outside": {},
+	"inside": "Inside of USM",
+	"@inside": {},
+	"go": "Go",
+	"@go": {},
+	"floors": "Floors",
+	"@floors": {},
+	"floor": "Floor",
+	"@floor": {},
+	"underground": "Underground",
+	"@underground": {},
+	"at_ground_level": "At ground level",
+	"@at_ground_level": {},
+	"take_stairs": "Take stairs",
+	"@take_stairs": {},
+
+	"error": "Error while connecting to server..",
+	"@error": {},
+	"level": "Level",
+	"@level": {},
+
+	"small": "Small",
+	"@small": {},
+	"med": "Medium",
+	"@med": {},
+	"large": "Large",
+	"@large": {},
+	"xl": "Extra Large",
+	"@xl": {},
+
+	"dark": "Dark",
+	"@dark": {},
+	"light": "Light",
+	"@light": {},
+	"system": "System",
+	"@system": {},
+
+	"history": "History",
+	"@history": {},
+
+	"buildings": "Buildings",
+	"@buildings": {},
+	"try_search_room": "Try to search a room..",
+	"@try_search_room": {},
+
+	"unable_to_find_current": "Unable to find current position",
+	"@unable_to_find_current": {},
+
+	"no_fav": "No favorites saved yet.",
+	"@no_fav": {},
+	"error_local_storage": "Error on loading local storage..",
+	"@error_local_storage": {},
+
+	"email": "Email",
+	"@email": {},
+	"example": "example",
+	"@example": {},
+	"password": "Password",
+	"@password": {},
+	"insert_password": "Insert your password",
+	"@insert_password": {},
+	"forgot_password": "Forgot your password?",
+	"@forgot_password": {},
+	"sign_in": "Sign in",
+	"@sign_in": {},
+	"sign_up": "Sign up",
+	"@sign_up": {},
+
+	"guest": "Enter as guest",
+	"@guest": {},
+
+	"send_to": "This will send you a mail to change your password",
+	"@send_to": {},
+	"send": "Send",
+	"@send": {},
+
+	"error_fields_empty": "Fields cant be empty",
+	"@error_fields_empty": {},
+	"error_email": "Incorrect email",
+	"@error_email": {},
+	"error_password": "Incorrect password",
+	"@error_password": {},
+	"no_response": "No server response",
+	"@no_response": {},
+
+	"email_sended": "Email sended",
+	"@email_sended": {},
+
+	"confirmation": "Are you sure?",
+	"@confirmation": {},
+	"this_will_send_mail": "This will send you a mail to change your password",
+	"@this_will_send_mail": {},
+	"yes": "yes",
+	"@yes": {},
+	"no": "no",
+	"@no": {},
+	"mail_sended": "Mail sended.",
+	"@mail_sended": {},
+
+	"no_info": "there is no info",
+	"@no_info": {},
+
+	"start_point": "Start point",
+	"@start_point": {},
+
+	"indications": "Indications",
+	"@indications": {},
+
+	"you_reached": "You reached your target",
+	"@you_reached": {},
+	"congrats": "Congratulations!",
+	"@congrats": {},
+
+	"must_complete": "All fields must be complete",
+	"@must_complete": {},
+
+	"bad_signup": "It was not possible to sign up",
+	"@bad_signup": {},
+
+	"usage_text": "If you need to search for a specific place, on the main page that appears when you open the app, you'll find a search bar and, below it, options for searching by building or by the history of searched cards. When you look up a particular building or room, a list will appear, and selecting an option will show its information.\n*These cards display information about the place, such as its name and type (Room or Building). You can save them by clicking the star in the top-right corner and later view them listed in the section at the bottom left. You can also click on the detailed map image in the infrastructure section to mark its location on the map.\n*By selecting the \"Go\" option, you'll get directions and references to reach the location based on your proximity to the university through the navigation displayed on the screen. The option to view the map is in the interactive bar at the bottom right corner, where you can center your location and switch between \"Street View\" or \"Satellite View\".\n*To view different options and edit your preferences, press the three buttons at the top right, where you can change font size, theme, language, etc. *Finally, by pressing the profile icon at the top inside the circle with the image, you can change your password or log out.",
+	"@usage_text": {},
+
+	"version_text": "Room Track App : Latest\nRelease Version : v1.0.0",
+	"@version_text": {},
+
+	"share_text": "Hey try \"Room Track\" on PlayStore",
+	"@share_text": {}
+
+}

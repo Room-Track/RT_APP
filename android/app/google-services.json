@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "852491266001",
+    "project_id": "room-track-bfc12",
+    "storage_bucket": "room-track-bfc12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852491266001:android:6aa75cc5bda551e653a2f0",
+        "android_client_info": {
+          "package_name": "com.example.room_track_flutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5lHqqGCECdJk74crjebo_sDQnZmIuHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852491266001:android:0bb11f182a160f4a53a2f0",
+        "android_client_info": {
+          "package_name": "com.room_track.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5lHqqGCECdJk74crjebo_sDQnZmIuHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852491266001:android:2c3ae61e2d50bdc253a2f0",
+        "android_client_info": {
+          "package_name": "com.roomtrack.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5lHqqGCECdJk74crjebo_sDQnZmIuHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

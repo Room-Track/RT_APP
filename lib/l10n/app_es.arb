@@ -1,0 +1,201 @@
+{
+	"@@locale": "es",
+
+	"appBar0": "Favoritos",
+	"@appBar0": {},
+	"appBar1": "Buscar",
+	"@appBar1": {},
+	"appBar2": "Mapa",
+	"@appBar2": {},
+
+	"welcome": "¿Qué sala estamos buscando?",
+	"@welcome": {},
+	"searchHint": "Inserte sala/edificio aquí",
+	"@searchHint": {},
+	"searchBtn0": "Buscar por edificio",
+	"@searchBtn0": {},
+	"searchBtn1": "Ver historial",
+	"@searchBtn1": {},
+
+	"settingProfile": "Perfil",
+	"@settingProfile": {},
+	"settingProfileBtn0": "Editar Perfil",
+	"@settingProfileBtn0": {},
+	"settingProfileBtn1": "Cambiar Contraseña",
+	"@settingProfileBtn1": {},
+	"settingProfileBtn2": "Cerrar Sesión",
+	"@settingProfileBtn2": {},
+
+	"settingLanguage": "Idioma",
+	"@settingLanguage": {},
+	"settingLanguageSub": "Selecciona tu idioma",
+	"@settingLanguageSub": {},
+
+	"settingFont": "Fuente",
+	"@settingFont": {},
+	"settingFontSub": "Selecciona el tamaño de fuente preferido",
+	"@settingFontSub": {},
+
+	"settingTheme": "Tema",
+	"@settingTheme": {},
+	"settingThemeSub": "Selecciona tu tema",
+	"@settingThemeSub": {},
+
+	"settingUsage": "Uso",
+	"@settingUsage": {},
+
+	"settingShare": "Compartir",
+	"@settingShare": {},
+	"settingContact": "Contacto",
+	"@settingContact": {},
+	"settingVersion": "Versión",
+	"@settingVersion": {},
+
+
+
+
+
+
+	"nameTypeVertex": "Lugar",
+	"@nameTypeVertex": {},
+	"nameTypeClass": "Aula",
+	"@nameTypeClass": {},
+	"nameTypePc": "PC",
+	"@nameTypePc": {},
+	"nameTypeBuilding": "Edificio",
+	"@nameTypeBuilding": {},
+
+	"generalLocation": "Ubicación General",
+	"@generalLocation": {},
+	"reference": "Referencia",
+	"@reference": {},
+	"outside": "Fuera de la USM",
+	"@outside": {},
+	"inside": "Dentro de la USM",
+	"@inside": {},
+	"go": "Ir",
+	"@go": {},
+	"floors": "Pisos",
+	"@floors": {},
+	"floor": "Piso",
+	"@floor": {},
+	"underground": "Subterráneo",
+	"@underground": {},
+	"at_ground_level": "A nivel del suelo",
+	"@at_ground_level": {},
+	"take_stairs": "Subir escaleras",
+	"@take_stairs": {},
+
+	"error": "Error al conectar con el servidor..",
+	"@error": {},
+	"level": "Nivel",
+	"@level": {},
+
+	"small": "Pequeño",
+	"@small": {},
+	"med": "Mediano",
+	"@med": {},
+	"large": "Grande",
+	"@large": {},
+	"xl": "Extra Grande",
+	"@xl": {},
+
+	"dark": "Oscuro",
+	"@dark": {},
+	"light": "Claro",
+	"@light": {},
+	"system": "Sistema",
+	"@system": {},
+
+	"history": "Historial",
+	"@history": {},
+
+	"buildings": "Edificios",
+	"@buildings": {},
+	"try_search_room": "Intenta buscar una sala..",
+	"@try_search_room": {},
+
+	"unable_to_find_current": "No se puede encontrar la posición actual",
+	"@unable_to_find_current": {},
+
+	"no_fav": "Aún no hay favoritos guardados.",
+	"@no_fav": {},
+	"error_local_storage": "Error al cargar el almacenamiento local..",
+	"@error_local_storage": {},
+
+	"email": "Correo electrónico",
+	"@email": {},
+	"example": "ejemplo",
+	"@example": {},
+	"password": "Contraseña",
+	"@password": {},
+	"insert_password": "Introduce tu contraseña",
+	"@insert_password": {},
+	"forgot_password": "¿Olvidaste tu contraseña?",
+	"@forgot_password": {},
+	"sign_in": "Iniciar sesión",
+	"@sign_in": {},
+	"sign_up": "Registrarse",
+	"@sign_up": {},
+	"guest": "Entrar como invitado",
+	"@guest": {},
+
+
+	"send_to": "Esto enviará un correo para cambiar tu contraseña",
+	"@send_to": {},
+	"send": "Enviar",
+	"@send": {},
+
+	"error_fields_empty": "Los campos no pueden estar vacíos",
+	"@error_fields_empty": {},
+	"error_email": "Correo electrónico incorrecto",
+	"@error_email": {},
+	"error_password": "Contraseña incorrecta",
+	"@error_password": {},
+	"no_response": "Sin respuesta del servidor",
+	"@no_response": {},
+
+	"email_sended": "Correo electrónico enviado",
+	"@email_sended": {},
+
+	"confirmation": "¿Estás seguro?",
+	"@confirmation": {},
+	"this_will_send_mail": "Esto enviará un correo para cambiar tu contraseña",
+	"@this_will_send_mail": {},
+	"yes": "sí",
+	"@yes": {},
+	"no": "no",
+	"@no": {},
+	"mail_sended": "Correo enviado.",
+	"@mail_sended": {},
+
+	"no_info": "no hay información",
+	"@no_info": {},
+
+	"start_point": "Punto de inicio",
+	"@start_point": {},
+
+	"indications": "Indicaciones",
+	"@indications": {},
+
+	"you_reached": "Has alcanzado tu destino",
+	"@you_reached": {},
+	"congrats": "¡Felicidades!",
+	"@congrats": {},
+
+	"must_complete": "Todos los campos deben estar completos",
+	"@must_complete": {},
+
+	"bad_signup": "No fue posible registrarse",
+	"@bad_signup": {},
+
+	"usage_text": "Si necesita buscar un lugar en concreto, en la pagina principal que aparece al entrar en la app se le facilita la barra de busqueda y abajo de esta la busqueda por edificio y el historial de tarjetas buscadas. Al consultar por algun edificio o sala particular se mostrara una lista, la cual al selccionar una opcion se le mostrara la informacion de esta. \n*En estas tarjetas se mostraran la informacion acerca de este lugar, como el nombre y el tipo (Sala o Edificio). Puedes guardar estas haciendo click en la estrella superior derecha para despues verlas listadas en la seccion de abajo a la izquierda  y puedes clickear en la imagen detallada del mapa en infraestructura para que te marque en el lugar en el mapa. \n*Al poner la opcion \" Ir \" te dara indicaciones y referencias para llegar a tal lugar dependiendo de tu cercania a la universidad mediante la navegacion aparecida en pantalla. La opcion para ver el mapa se encuentra en la barra interactiva de la esquina inferior derecha, en el que puedes centrar tu ubicacion y cambiar a \"Vista de Calle\" o \"Vista de Satelite\". \n*Para ver las diferentes opciones y editar tus preferencias presionas los 3 botones de la parte superior derecha, en el que podras cambiar el tamaño de la letra, el tema, el idioma, etc.*Finalmente al presionar el perfil que se encuentra arriba en el circulo con la imagen te da la opcion de cambiar tu contraseña o desloguearte.",
+	"@usage_text": {},
+
+	"version_text": "Room Track App : Última\nVersión de lanzamiento : v1.0.0",
+	"@version_text": {},
+
+	"share_text": "Oye, prueba \"Room Track\" en PlayStore",
+	"@share_text": {}
+
+}
